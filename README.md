@@ -28,7 +28,7 @@
 <br/>
 
 <p align="center">
-  I am a passionate <b>Computer Science student</b> at <b>Norton University 🎓</b>, Cambodia (Year 4),
+  I am a <b>Computer Science student</b> at <b>Norton University 🎓</b>, Cambodia (Year 4),
   with hands-on work experience at <b>Medai GB Enterprise Co., Ltd.</b><br/><br/>
   Skilled in <b>HTML · CSS · JavaScript · PHP · React · Laravel</b>, with solid knowledge in
   <b>database management</b> (MySQL, PostgreSQL, SQL Server), <b>basic networking</b> (Linux, Cloud, Ubuntu),
