@@ -173,8 +173,8 @@ Friendly &nbsp;&amp;&nbsp; Collaborative
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamraeun99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&icon_color=00d4ff&text_color=c4b5fd&ring_color=7b2fff)](https://github.com/chamraeun99)&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chamraeun99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&text_color=c4b5fd&langs_count=8)](https://github.com/chamraeun99)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chamraeun99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&icon_color=00d4ff&text_color=c4b5fd&ring_color=7b2fff)](https://github.com/chamraeun99)&nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chamraeun99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b2fff&text_color=c4b5fd&langs_count=8)](https://github.com/chamraeun99)
 
 <br/><br/>
 
